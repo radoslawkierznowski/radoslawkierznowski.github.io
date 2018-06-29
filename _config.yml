@@ -1,3 +1,4 @@
+btn-github: radzio1993
 title: Radosław Kierznowski
 author: Radosław Kierznowski
 # email: your-email@domain.com
@@ -10,7 +11,7 @@ twitter_username: radzio1993
 github_username:  radzio1993
 rss: rss
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: radzio1993
 # flickr_username: jekyll
 # instagram_username: jekyll
 # linkedin_username: jekyll
@@ -30,8 +31,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-jekyll-theme-hacker:
-  date_format: "%b %-d, %Y"
+#minima:
+  #date_format: "%b %-d, %Y"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
